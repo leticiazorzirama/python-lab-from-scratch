@@ -22,8 +22,6 @@ This repository showcases my hands‑on experimentation with the fundamentals of
 | `Insertion-sort_with-assert.py`                        | Insertion sort using inline assertions.                                                      |
 | `Merge-sort_Recursive-algorithm_with-pytest.py`        | Merge sort with recursive implementation with pytest support.                                         |
 
-> **Note** File names match the actual scripts in the repository; adjust if they differ.
-
 ---
 
 ## 🛠️ Requirements
@@ -67,27 +65,18 @@ python -m pytest            # or simply: pytest
 
 ---
 
-## 💡 Project philosophy
-
-1. **Minimal dependencies** — only `pytest` for testing.
-2. **Readable code** — descriptive variable names, type hints (`typing`), and docstrings.
-3. **Small, focused scripts** — each file does one thing well.
-4. **Tests where it matters** — key algorithms are covered by unit tests so you can refactor with confidence.
-
----
-
 ## 🤝 Contributing
 
-Found an issue or have an idea? Feel free to open an issue or pull request. For major changes, please start a discussion first.
+Found an issue or have an idea? Feel free to open an issue or pull request.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+**MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 📣 Contact
 
-Questions? Ping me on GitHub or reach out via LinkedIn. Happy coding!
+Questions? Ping me on GitHub or reach out via LinkedIn.
