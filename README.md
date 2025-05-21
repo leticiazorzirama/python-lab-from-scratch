@@ -6,7 +6,7 @@
 
 ## ✨ Why this repo?
 
-This repository showcases my hands‑on experimentation with the fundamentals of Python. Each script was implemented “by hand” to deepen understanding of algorithms, recursion, testing and general problem‑solving without leaning on heavy external libraries.
+This repository showcases my hands‑on experimentation with the fundamentals of Python. Each script was implemented “by hand” to deepen understanding of algorithms, recursion, testing and general problem‑solving.
 
 ---
 
