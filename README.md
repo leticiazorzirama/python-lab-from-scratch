@@ -1,4 +1,4 @@
-Python lab from scratch
+# Python lab from scratch
 
 *A grab‑bag of procedural Python scripts written entirely from scratch — no frameworks, just raw code and curiosity.*
 
