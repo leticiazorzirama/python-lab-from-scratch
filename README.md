@@ -31,36 +31,6 @@ This repository showcases my hands‑on experimentation with the fundamentals of
 
 Everything else uses only the Python Standard Library (`re`, `typing`, etc.).
 
-Install dependencies into a virtual environment:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate   # PowerShell: .venv\Scripts\Activate.ps1
-pip install -r requirements.txt  # file lists: pytest
-```
-
----
-
-## 🚀 Quick start
-
-```bash
-# 1 ▪ Clone
-$ git clone https://github.com/your‑user/python‑lab‑from‑scratch.git
-$ cd python‑lab‑from‑scratch
-
-# 2 ▪ (Optionally) activate the venv created above
-
-# 3 ▪ Run a script
-$ python NIM-game.py        # replace with any script name
-```
-
-### Running the tests
-
-```bash
-# From the project root
-python -m pytest            # or simply: pytest
-```
-
 > ⚠️ **IDLE users:** the integrated shell cannot run `pytest` directly. Run the command above from your terminal (PowerShell, Bash, CMD) or use an IDE that integrates pytest (e.g. VS Code, PyCharm).
 
 ---
